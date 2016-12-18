@@ -7,7 +7,7 @@ py-pkg-temple is a set of template files to create Python package.
 
         $ make
 
-2. Customize this files for your Python package.
+2. Customize these files for your Python package.
 
 
 ## License
