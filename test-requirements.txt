@@ -1,0 +1,8 @@
+# Test
+pytest
+mock
+# Code Analysis
+flake8
+flake8-colors
+# Code Formatter
+pyformat
